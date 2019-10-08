@@ -3,6 +3,7 @@
 Discussion repository for the OGGM hacktoberfest 2019!
 
 **Date:** TBA 
+
 **Locations:**
 - Innsbruck: TBA
 - Bremen: TBA
