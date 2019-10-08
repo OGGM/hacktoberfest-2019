@@ -28,7 +28,7 @@ There are only a few rules this year:
 
 ## What's the agenda?
 
-**Before the actual hackathon**, we will have a short (~ 1-2 hours) meeting to discuss about open-source and github (a very short tutorial!) and mostly to prepare our projects: who will work on what, etc.
+**A couple of days before the actual hackathon**, we will have a short (~ 1-2 hours) meeting to discuss about open-source and github (a very short tutorial!) and spend time preparing our projects: who will work on what, etc.
 
 **On hack day**, we meet at 08:00 for breakfast. In the morning, we code. In the afternoon, we code. At the end of the afternoon, we have beers, a short "show and tell", and we order pizzas.
 
