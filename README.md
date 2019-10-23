@@ -49,3 +49,15 @@ See our [list of projects](https://github.com/OGGM/hacktoberfest-2019/issues) an
 No worries! We will do our best to create a welcoming atmosphere for 
 everyone: we are all here to learn and have fun, that's all!
 
+## Status topics as of 23.10
+
+- [ACINN weather plots](https://github.com/OGGM/hacktoberfest-2019/issues/1): Maria, Birgit, Matthias
+- [Peru animation](https://github.com/OGGM/hacktoberfest-2019/issues/10): Annelies, Gaspard
+- [Montain Wave App](https://github.com/OGGM/hacktoberfest-2019/issues/2): Brigita, Fabien
+- Glacier Explorer App: Zora
+- [OGGM MB Calib Website](https://github.com/OGGM/hacktoberfest-2019/issues/11): Fabien
+- Unclear yet: Lilian, Stefan, Hetal, Reto
+
+
+
+
